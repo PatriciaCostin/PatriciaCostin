@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm Patricia, a junior iOS developer who is passionate about creating iOS apps and further improving my skills. On my GitHub, you can find the __Unsplash__ and __ParkingLot__ apps I worked on during my internship at Endava, as well as the __WeatherApp__ app that I developed on my own with the goal of exploring Swift and the integration of SwiftUI in UIKit apps.
+I'm Patricia, a junior iOS developer who is passionate about creating iOS apps and further improving my skills. On my GitHub, you can find the __Unsplash__ app I worked on during my internship at Endava, as well as the __WeatherApp__ app that I developed on my own with the goal of exploring Swift and the integration of SwiftUI in UIKit apps.
 
 <!--
 **PatriciaCostin/PatriciaCostin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
